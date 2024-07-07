@@ -1,0 +1,12 @@
+.container {
+    display: flex;
+    gap: 16px;
+
+    >div {
+        border-radius: 16px;
+    }
+}
+
+.chat-list {
+    background-color: aqua;
+}
